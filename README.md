@@ -29,8 +29,7 @@ Colors:
 Installation and Setup
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/username/explore-hub.git  
+
 Navigate to the project directory:
 bash
 Copy code
